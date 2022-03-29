@@ -26,7 +26,7 @@ lousy cable).
 
 We are not switching with transistors, but we use relays instead. They are also
 cheap (1.5 - 2 €/piece) and capable of switching heavier loads than needed in
-most applications (230V at 10 Amps). If in any case you want to switch more than
+most applications (240V at 10 Amps). If in any case you want to switch more than
 200 Watt loads with this device, you should definitely test all soldered paths
 twice before using it in production.
 
